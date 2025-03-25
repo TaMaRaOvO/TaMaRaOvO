@@ -1,0 +1,11 @@
+pip install python-docx
+from docx import Document
+
+# تحميل ملف DOCX وقراءة النص
+def read_docx(file_path):
+    doc = Document(file_path)
+    text = "\n".join([para.text for para in doc.paragraphs])
+    return text
+
+content = read_docx("document.docx")
+print(content)
