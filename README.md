@@ -1,3 +1,25 @@
+text=CHAPTER 18
+--------------------------
+
+15 years earlier…
+
+Noah ambled over from the kitchen wearing Batman pajamas and a giant smile. Two things he was almost never without. A red sucker clutched in his hand, he plopped down on the carpet in front of me. 
+“Hey, where’d you get that?” I realized the answer as the question came out.
+“Up on da shef.” He pointed the sucker to the ceiling with a triumphant smile. Noah had been becoming a climber. If he wanted something, he would find a way to get it. That sucker was in a bag on a shelf over the counter. 
+“Noah, that’s not safe.”
+“You wanna lick, Gway?” He twisted and plunged the candy so close to my face it almost went up my nose. 
+“No thanks…you know what flavor I like.” I knew he wasn’t supposed to be eating sweets so close to dinner, but since I had no clue when that would be, I didn’t care.
+“Gwape.”
+“Yeah, grape.”
+“Can we go swim?” 
+We’d already watched the DVD of his favorite movie and now the credits rolled and panic rose in my chest. “No…we can’t swim now.” 
+“Why? I wanna swim.”
+“Because…it’s too late now. Besides, we have to be invited, silly.” Our neighbors put in a pool the beginning of last summer. When we played in the backyard, we could hear the high school kids splashing and yelling. Noah learned some new words thanks to them. Mrs. Watson told us months ago she’d invite us over for a swim sometime. Ever since Noah had asked me. Every. Single. Day.
+“When they going to invite us? When’s Daddy coming home?”
+I plucked the remote from beside me and clicked the movie to start again. It was the sole thing I could think of to keep him from asking questions or getting into trouble. What else was I supposed to do with a three-year-old? I’d lost my Mother-of-the-Year status a long time ago, and TV became my go-to solution. We used to be at the park at this time with Grandma, but since her stroke, she hadn’t been over.
+As the opening scene played out, my eyes went from Noah to the TV to the front door and back to Noah. It was about the hundredth time I’d done that in the past two hours. The sun would be setting soon, and I had homework. The fifth grade science fair had been in my sights since Mrs. Boon announced it earlier in the year, but I had barely started the work. 
+Noah turned and smiled at me when his favorite part came. I grinned in return, genuinely happy to see him filled with such real joy. At the same time, I felt sad because I knew that light would fade soon enough. How could it not,
+
 إليك الأكواد الخاصة بكل ورشة مع تسمياتها مرتبة حسب الترتيب المتفق عليه:
 1. الورشة 1: تحليل النص الأساسي
 def analyze_text(text):
