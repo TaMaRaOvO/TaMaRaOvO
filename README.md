@@ -1,31 +1,43 @@
-text=CHAPTER 18
---------------------------
-
-15 years earlier…
-
-Noah ambled over from the kitchen wearing Batman pajamas and a giant smile. Two things he was almost never without. A red sucker clutched in his hand, he plopped down on the carpet in front of me. 
-“Hey, where’d you get that?” I realized the answer as the question came out.
-“Up on da shef.” He pointed the sucker to the ceiling with a triumphant smile. Noah had been becoming a climber. If he wanted something, he would find a way to get it. That sucker was in a bag on a shelf over the counter. 
-“Noah, that’s not safe.”
-“You wanna lick, Gway?” He twisted and plunged the candy so close to my face it almost went up my nose. 
-“No thanks…you know what flavor I like.” I knew he wasn’t supposed to be eating sweets so close to dinner, but since I had no clue when that would be, I didn’t care.
-“Gwape.”
-“Yeah, grape.”
-“Can we go swim?” 
-We’d already watched the DVD of his favorite movie and now the credits rolled and panic rose in my chest. “No…we can’t swim now.” 
-“Why? I wanna swim.”
-“Because…it’s too late now. Besides, we have to be invited, silly.” Our neighbors put in a pool the beginning of last summer. When we played in the backyard, we could hear the high school kids splashing and yelling. Noah learned some new words thanks to them. Mrs. Watson told us months ago she’d invite us over for a swim sometime. Ever since Noah had asked me. Every. Single. Day.
-“When they going to invite us? When’s Daddy coming home?”
-I plucked the remote from beside me and clicked the movie to start again. It was the sole thing I could think of to keep him from asking questions or getting into trouble. What else was I supposed to do with a three-year-old? I’d lost my Mother-of-the-Year status a long time ago, and TV became my go-to solution. We used to be at the park at this time with Grandma, but since her stroke, she hadn’t been over.
-As the opening scene played out, my eyes went from Noah to the TV to the front door and back to Noah. It was about the hundredth time I’d done that in the past two hours. The sun would be setting soon, and I had homework. The fifth grade science fair had been in my sights since Mrs. Boon announced it earlier in the year, but I had barely started the work. 
-Noah turned and smiled at me when his favorite part came. I grinned in return, genuinely happy to see him filled with such real joy. At the same time, I felt sad because I knew that light would fade soon enough. How could it not,
-
 إليك الأكواد الخاصة بكل ورشة مع تسمياتها مرتبة حسب الترتيب المتفق عليه:
 1. الورشة 1: تحليل النص الأساسي
 def analyze_text(text):
     # هنا يتم تحليل النص الأساسي
     # استخراج الشخصيات، الأحداث، والمحتوى الأساسي
-    analyzed_text = {
+    analyzed_text = {For the first time, Daniel sat across from me with a laptop resting on his knees. I’d found him that way when I opened the door three minutes ago. I’d sent him more journal entries, hoping to keep our live discussions to a minimum after what happened last weekend at the sale, but now a new wave of awkwardness poured over me. I wasn’t expecting he’d be digging through my brain, analyzing my soul, right in front of me. Maybe I’d caught a break, and he was watching porn.
+“No notepad today?” My eyes skirted around the room, hoping it could be my chance to take a peek at it.
+“I apologize for this. There’s coffee there if you like.” He head gestured to a small table next to his desk without making eye contact with me. His tone left nothing for me to read, as if he erased what happened between us.
+“I’m good, thanks.” My nerves couldn’t take an additional jolt. “I’ve got plenty to keep myself busy.” I strolled toward my escape window in time to view the orange glow of the sun lower behind the tall tower to our right. The reflection off the glass brightened a patch of green grass below. “Take your time.”
+A few minutes later, his voice startled me. “Normally, I wouldn’t be so rude…” My mind had involuntarily played a loop of Daniel’s hungry gaze on my mouth. “…but I’d hoped to finish this last excerpt before we talked.”
+I took a seat in the chair closest to Daniel rather than the couch across from him. A quick glimpse of my placement showed the uncertainty in his eyes.
+“First, let me say that I appreciate you sending me these. I found it extremely enlightening what you chose to send this time.”
+I tilted my head in confusion, unsure of what he was getting at.
+“You’re concerned about my perception of your friend Nathan. Is that why you sent these?”
+I lifted a shoulder and let it fall. I had emailed him three entries. Two were about my first encounters with Nathan. “I just wanted you to learn a bit about him…understand where he came from.”
+“Growing up in foster care can be extremely tough to handle for any child, but it sounds like Nathan had it pretty tough.”
+“It’s not like they beat him or anything. It was pretty damn clear they were in it for the money, though.”
+“Was there anyone he could rely on?”
+“Not really. Even his foster brother, Kevin, had been a lowlife. But,
+Nathan found a way to rise above all that.”
+“You mean after he ended up in rehab?”
+“His family is why he ended up there…but, yes.” Daniel hadn’t said anything that wasn’t true, but I still found myself feeling defensive.
+“Then came AA, and that’s when you two met?”
+I nodded and then went on to tell him how I joined halfway through college. My grandmother had a decent estate when she died, none of which went to my father. My portion, intended to help me pay for college, had done that in addition to assisting me in managing my anxieties through liquid medication.
+“By the end of my sophomore year, I’d run out of money. Becca and Barb had agreed to use some of their inheritance to help me pay the rest. It was what Grandma would have wanted for me. It was on the condition that
+I get help.”
+“Sounds like you’re in a similar position now.”
+“Thanks for stating the obvious.”
+“You’re right. I’m sorry.” He closed the laptop and set it onto the table next to him. Then, he did something he’d never done during one of our sessions. He stood, wandering away as if he needed distance from me.
+“This might be a good time to have a sidebar.”
+“Are the drinks free?”
+His hands slipped into the pockets of his black slacks as he eyed the carpet at his feet. “I’d like you to take this seriously, Gray.”
+“Then, look at me.” Slow and deliberate, his gaze turned up to mine. The shift in control felt oddly intoxicating. I scooted to the end of my seat, rested my elbows on my knees, and said, “If you’ve got something to say to me, just say it…but at least look me in the eye when you do it.” If I was going down, it would be with my head held high.
+He took two strides in my direction. “Another shortcoming on my part. Gray, I’m going to be honest here, and say you’ve got me off my game. I’ve been unprofessional with some of my responses, and these sessions have become somewhat unconventional to say the least.”
+Stunned into silence by not only his bravado but also his complete lack of acknowledgement of the bigger picture, I stared at him, mouth agape. Then, boldly I stood and faced him. His eyes, dark with anticipation, met mine. “Seriously?” My heart thudded erratically as I moved in closer. “I don’t give a damn about your responses, Daniel. You can say whatever you want to say to me. I’m just trying to get through this.” One more step had us toe-to-toe, leaving me looking up to stay connected. “But, what you failed to acknowledge here…what you seemed to be forgetting…or you’re afraid to say it out loud is how when you touched my body, your heart pounded so hard through your chest I felt it against my back.”
+Daniel averted my eyes, looking beyond me to the window. “Gray… don’t do this.”
+His body swayed, about to move back, but I caught his arm. “No…you started this. Are you denying you felt something? Are you denying what your eyes told me right before you were about to kiss me?”
+“I didn’t…I stopped it. It was wrong. This is wrong.” He broke away then and went toward his desk.
+“That’s not what I asked you? What’s the matter? You can’t handle the open and honest rule?”
+
         "characters": extract_characters(text),
         "themes": extract_themes(text),
         "plot": extract_plot(text)
